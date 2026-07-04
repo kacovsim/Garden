@@ -15,7 +15,7 @@
     <br>
     </div>
 
-##Ovládání
+## Ovládání
    <ul>
     <li><strong>W, A, S, D:</strong> Pohyb postavy po scéně.</li>
     <li><strong>Levý Shift:</strong> Sprint.</li>
