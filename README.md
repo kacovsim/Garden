@@ -14,6 +14,40 @@
     </ul>
     <br>
     </div>
+
+##Ovládání
+   <ul>
+    <li><strong>W, A, S, D:</strong> Pohyb postavy po scéně.</li>
+    <li><strong>Levý Shift:</strong> Sprint.</li>
+    <li><strong>Pohyb myší:</strong> Rozhlížení kolem sebe.</li>
+   </ul>
+   <ul>
+    <li><strong>C:</strong> Přepínání mezi 4 režimy kamery:
+     <ul>
+      <li>Ortografická rotující kamera.</li>
+      <li>Volná kamera z pohledu hráče.</li>
+      <li>Statická kamera 1.</li>
+      <li>Statická kamera 2.</li>
+     </ul>
+    </li>
+    <li><strong>Pravé tlačítko myši:</strong> Otevře kontextové menu pro rychlý výběr režimu kamery nebo denní doby.</li>
+   </ul>
+   <ul>
+    <li><strong>Levé tlačítko myši:</strong>
+     <ul>
+      <li>Kliknutím na zem zasadíte/položíte aktuálně vybraný předmět.</li>
+      <li>Kliknutím na poletujícího ptáka spustíte vizuální efekt exploze.</li>
+     </ul>
+    </li>
+    <li><strong>Q:</strong> Přepínání typu předmětu, který chcete položit. Vybraný předmět se zobrazuje v uživatelském rozhraní.</li>
+   </ul>
+   <ul>
+    <li><strong>T:</strong> Cyklické přepínání denní doby (Automatická rotace -> Ráno -> Poledne -> Večer -> Půlnoc).</li>
+    <li><strong>F:</strong> Zapnutí nebo vypnutí mlhy.</li>
+    <li><strong>L:</strong> Zapnutí nebo vypnutí baterky připevněné k hráči.</li>
+   </ul>
+   </p>
+
 <img width=auto height=auto alt="garden00" src="https://github.com/user-attachments/assets/2bcfda1a-c720-4cf0-bbb3-6890044a6046" />
 <img width=auto height=auto alt="garden03" src="https://github.com/user-attachments/assets/c135b9ba-e163-40b7-96f9-8685444e2434" />
 <img width=auto height=auto alt="garden02" src="https://github.com/user-attachments/assets/0e027a5d-f1d2-4bc0-9e57-ed8987bde1e3" />
