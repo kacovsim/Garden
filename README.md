@@ -15,36 +15,36 @@
     <br>
     </div>
 
-## Ovládání
+## Controls
    <ul>
-    <li><strong>W, A, S, D:</strong> Pohyb postavy po scéně.</li>
-    <li><strong>Levý Shift:</strong> Sprint.</li>
-    <li><strong>Pohyb myší:</strong> Rozhlížení kolem sebe.</li>
+    <li><strong>W, A, S, D:</strong> Move the character around the scene.</li>
+    <li><strong>Left Shift:</strong> Sprint.</li>
+    <li><strong>Mouse movement:</strong> Look around.</li>
    </ul>
    <ul>
-    <li><strong>C:</strong> Přepínání mezi 4 režimy kamery:
+    <li><strong>C:</strong> Switch between 4 camera modes:
      <ul>
-      <li>Ortografická rotující kamera.</li>
-      <li>Volná kamera z pohledu hráče.</li>
-      <li>Statická kamera 1.</li>
-      <li>Statická kamera 2.</li>
+      <li>Orthographic rotating camera.</li>
+      <li>Free camera from the player's perspective.</li>
+      <li>Static camera 1.</li>
+      <li>Static camera 2.</li>
      </ul>
     </li>
-    <li><strong>Pravé tlačítko myši:</strong> Otevře kontextové menu pro rychlý výběr režimu kamery nebo denní doby.</li>
+    <li><strong>Right mouse button:</strong> Opens a context menu for quick selection of the camera mode or time of day.</li>
    </ul>
    <ul>
-    <li><strong>Levé tlačítko myši:</strong>
+    <li><strong>Left mouse button:</strong>
      <ul>
-      <li>Kliknutím na zem zasadíte/položíte aktuálně vybraný předmět.</li>
-      <li>Kliknutím na poletujícího ptáka spustíte vizuální efekt exploze.</li>
+      <li>Click on the ground to plant/place the currently selected item.</li>
+      <li>Click on a flying bird to trigger an explosion visual effect.</li>
      </ul>
     </li>
-    <li><strong>Q:</strong> Přepínání typu předmětu, který chcete položit. Vybraný předmět se zobrazuje v uživatelském rozhraní.</li>
+    <li><strong>Q:</strong> Switch the type of item you want to place. The selected item is displayed in the user interface.</li>
    </ul>
    <ul>
-    <li><strong>T:</strong> Cyklické přepínání denní doby (Automatická rotace -> Ráno -> Poledne -> Večer -> Půlnoc).</li>
-    <li><strong>F:</strong> Zapnutí nebo vypnutí mlhy.</li>
-    <li><strong>L:</strong> Zapnutí nebo vypnutí baterky připevněné k hráči.</li>
+    <li><strong>T:</strong> Cycle through the time of day (Automatic rotation -> Morning -> Noon -> Evening -> Midnight).</li>
+    <li><strong>F:</strong> Toggle fog on or off.</li>
+    <li><strong>L:</strong> Toggle the flashlight attached to the player on or off.</li>
    </ul>
    </p>
 
